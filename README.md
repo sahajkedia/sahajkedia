@@ -22,20 +22,28 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/_cosmic_joke)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sahaj-kedia-4a5595192/)
 
+
+
+- 🌱 I’m currently learning ... 
+>>JavaScript & TypeScript
+>>Intermediate React and Node JS 
+>>DevOps
+
+- 👯 I’m looking to collaborate on ...
+>>Open Source Projects
+
+
 <a href="https://github.com/sahajkedia">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajkedia&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-- 🌱 I’m currently learning ... 
---JavaScript & TypeScript
---Intermediate React and Node JS 
---DevOps
+<a href="https://github.com/sahajkedia">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sahajkedia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+</a>
 
-- 👯 I’m looking to collaborate on ...
---Open Source Projects
 
 - ⚡ Fun fact: ...
--- I love Physics.
+>> I love Physics.
 
 
 With love,

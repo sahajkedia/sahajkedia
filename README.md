@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning ... 
->>JavaScript & TypeScript
->>Intermediate React and Node JS 
+>>JavaScript & TypeScript,
+>>Intermediate React and Node JS,
 >>DevOps
 
 - 👯 I’m looking to collaborate on ...
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 - ⚡ Fun fact: ...
->> I love Physics.
+> I love Physics.
 
 
 With love,

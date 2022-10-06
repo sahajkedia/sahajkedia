@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Sahaj's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)

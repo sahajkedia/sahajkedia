@@ -1,4 +1,4 @@
-<h1 align="center" Hi there. I am Sahaj Kedia. I am a developer. 👋</h1>
+<h1 align="center"> Hi there. I am Sahaj Kedia. I am a developer. 👋</h1>
 
 <div align="center">
 - 📫 How to reach me: ...
@@ -20,7 +20,7 @@
 </a>
   
   <a width="20%" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumendra" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajkedia" />
 </a>
 
   </div>

@@ -8,6 +8,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sahaj-kedia-4a5595192/)
 </div>
 
+<div align="inline">
 <a width="20%" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajkedia" />
 </a>
@@ -15,7 +16,7 @@
 <a href="https://github.com/sahajkedia">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sahajkedia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
-
+</div>
 - 🌱 I’m currently learning ... 
 <ol>
   <li> JavaScript & TypeScript</li>

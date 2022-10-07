@@ -10,7 +10,7 @@
 
 
 
-<div align="center">
+
 <a width="20%" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajkedia" />
 </a>
@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajkedia" />
 </a>
 
-  </div>
+
 
 
 

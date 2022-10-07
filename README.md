@@ -1,3 +1,4 @@
+
 <h1 align="center"> Hi there. I am Sahaj Kedia. I am a developer. 👋</h1>
 
 <div align="center">
@@ -18,7 +19,7 @@
 </a>
 </div>
 
-##🌱 I’m currently learning ... 
+-🌱 I’m currently learning ... 
 <ol>
   <li> JavaScript & TypeScript</li>
 
@@ -27,8 +28,5 @@
   <li>DevOps</li>
 </ol>
 
-- 👯 I’m looking to collaborate on ...
-
----Open Source Projects
 
 

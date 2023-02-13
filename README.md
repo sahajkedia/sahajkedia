@@ -25,7 +25,7 @@
 
   <li>Intermediate React and Node JS</li>
 
-  <li>DevOps</li>
+  <li>Flutter and Dart for mobile development</li>
 </ol>
 
 

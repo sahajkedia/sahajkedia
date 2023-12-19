@@ -21,11 +21,11 @@
 
 -🌱 I’m currently learning ... 
 <ol>
-  <li> JavaScript & TypeScript</li>
+  <li>Redux and TypeScript</li>
 
-  <li>Intermediate React and Node JS</li>
+  <li>Data Science</li>
 
-  <li>Flutter and Dart for mobile development</li>
+  
 </ol>
 
 

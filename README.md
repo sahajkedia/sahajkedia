@@ -60,7 +60,9 @@
 
 ## 🌱 Currently learning ...
 <ul>
-  <li>Data Science</li>
+  <li>Artificial Intelligence</li>
+  <li>Product Development Strategies</li>
+  <li>Web3 Technologies</li>
 </ul>
 
 <div align="inline">

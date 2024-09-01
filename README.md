@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a Frontend Engineer and Product Development Enthusiast. 」
+    「 I am a Developer and Product Enthusiast. 」
     <br>
      <a href="https://www.google.com/search?q=Sahaj Kedia">「 Google Me 」</a>
     <br>

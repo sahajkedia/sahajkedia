@@ -33,8 +33,8 @@
  # About me
  
 <p>
-💻 &emsp; I'm passionate about creating engaging user interfaces.   <br />
-💻 &emsp; I develop practical applications, contribute to team projects, and am always eager to learn new front-end technologies.  <br />
+💻 &emsp; I'm passionate about creating web applications in both the web2 and web3 worlds.   <br />
+💻 &emsp; I develop practical applications, contribute to team projects, and am always eager to learn new technologies.  <br />
 💻 &emsp; I enjoy participating in tech meetups and workshops to stay connected with the developer community.  <br />
 💻 &emsp; Exploring new places and cultures enriches my creativity and perspective in my work.  <br />
 
@@ -63,6 +63,7 @@
   <li>Artificial Intelligence</li>
   <li>Product Development Strategies</li>
   <li>Web3 Technologies</li>
+  <li>Creating data apps using Streamlit in Python</li>
 </ul>
 
 <div align="inline">
